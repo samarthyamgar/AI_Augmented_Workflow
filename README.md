@@ -13,3 +13,6 @@ To build a simple conversational AI agent and document all AI-generated or AI-mo
 - Git
 - GitHub
 - GitHub Copilot
+
+## How to used
+-python agent.py
